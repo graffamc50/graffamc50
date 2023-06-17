@@ -1,4 +1,8 @@
-### Hi there 👋
+<div style="width: 100%;">
+  <a href="https://graffamc50.github.io/PersonalWebsite/index.html">
+    <img src="profile.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 <a href="https://graffamc50.github.io/PersonalWebsite/index.html"><p>My Website</p></div></a>
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h3 align="left">My Website</h3>
-<a href="https://graffamc50.github.io/PersonalWebsite/index.html"></div></a>
+
+<a href="https://graffamc50.github.io/PersonalWebsite/index.html"><p>My Website</p></div></a>
 
 
 <h3 align="left">Connect with me:</h3>

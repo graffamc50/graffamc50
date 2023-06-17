@@ -4,19 +4,6 @@
   </a>
 </div>
 
-<a href="https://graffamc50.github.io/PersonalWebsite/index.html"><p>My Website</p></div></a>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto: colton.b.graffam@gmail.com"><img src="email light.png" height="60px"/></div></a>
-  
-  <a href="https://github.com/graffamc50"><img src="github-logo.png" width="60px"/></div></a>
-  
-  <a href="https://www.linkedin.com/in/colton-graffam/"><img src="https://graffamc50.github.io/PersonalWebsite/linkedin-logo-bw.png" width="65px"/></div></a>
-</p>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
@@ -30,13 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-
-
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=graffamc50)](https://git.io/streak-stats)
 
 
 

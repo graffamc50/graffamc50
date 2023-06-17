@@ -1,10 +1,18 @@
 ### Hi there 👋
+<h3 align="left">My Website</h3>
+<a href="https://graffamc50.github.io/PersonalWebsite/index.html"></div></a>
 
-<a href="mailto: colton.b.graffam@gmail.com"><img src="email light.png" height="60px"/></div></a>
 
-<a href="https://github.com/graffamc50"><img src="github-logo.png" width="60px"/></div></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto: colton.b.graffam@gmail.com"><img src="email light.png" height="60px"/></div></a>
+  
+  <a href="https://github.com/graffamc50"><img src="github-logo.png" width="60px"/></div></a>
+  
+  <a href="https://www.linkedin.com/in/colton-graffam/"><img src="https://graffamc50.github.io/PersonalWebsite/linkedin-logo-bw.png" width="65px"/></div></a>
+</p>
 
-<a href="https://www.linkedin.com/in/colton-graffam/"><img src="https://graffamc50.github.io/PersonalWebsite/linkedin-logo-bw.png" width="65px"/></div></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
@@ -26,13 +34,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=graffamc50)](https://git.io/streak-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+
 
 <!--
 **graffamc50/graffamc50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
